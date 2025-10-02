@@ -11,7 +11,7 @@ Measured baseline coupon usage across age_group and purchaseMethod.
 Computed required sample size (chi-square power) and ran the experiment (synthesized an experiment by inserting experimentFlag=True documents (n ≈ 400 over a time window)).
 Ran a chi-square / contingency-table test comparing coupon redemption rates between experiment and control group, then computed average sale amounts for each group.
 Observed a statistically significant difference (chi-square test), and a measurable lift in average purchase amount in the experimental group.
-The experiment shows increased coupon usage and improved sales metrics in the experiment population.
+The experiment shows increased coupon usage and improved sales.
 
 
 
