@@ -25,7 +25,7 @@ Computed percentage coupon per group (age × purchaseMethod) and plotted heatmap
 
 H₀ (planning stage): If effect size ≤ 0.2, our sample may not detect a meaningful difference at α = 0.05, power = 0.8.
 
-Decision: Power analysis showed ~400 observations required in a timeframe of 200days. 
+Decision: Power analysis showed ~400 observations required in a timeframe of 200days.
 With synthetic data, I achieved sufficient sample size.
 
 
