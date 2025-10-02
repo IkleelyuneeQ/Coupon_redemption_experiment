@@ -25,10 +25,8 @@ Computed percentage coupon per group (age × purchaseMethod) and plotted heatmap
 
 H₀ (planning stage): If effect size ≤ 0.2, our sample may not detect a meaningful difference at α = 0.05, power = 0.8.
 
-Decision: Power analysis showed ~400 observations required. With synthetic data generation over 200 days, we achieved sufficient sample size. No statistical test run here, so H₀ not rejected or accepted — just used to design experiment.
-
-Used GofChisquarePower.solve_power with effect size = 0.2, α = 0.05, power = 0.8 → group size.
-Estimated how many days are needed to collect required observations from baseline sales per day.
+Decision: Power analysis showed ~400 observations required in a timeframe of 200days. 
+With synthetic data, I achieved sufficient sample size.
 
 
 **Hypothesis & evaluation:**
